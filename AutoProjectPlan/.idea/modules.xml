@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1362839620/AutoProjectPlan.iml" filepath="$PROJECT_DIR$/.idea/modules/1362839620/AutoProjectPlan.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1362839620/AutoProjectPlan_main.iml" filepath="$PROJECT_DIR$/.idea/modules/1362839620/AutoProjectPlan_main.iml" group="AutoProjectPlan" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/1362839620/AutoProjectPlan_test.iml" filepath="$PROJECT_DIR$/.idea/modules/1362839620/AutoProjectPlan_test.iml" group="AutoProjectPlan" />
+    </modules>
+  </component>
+</project>
